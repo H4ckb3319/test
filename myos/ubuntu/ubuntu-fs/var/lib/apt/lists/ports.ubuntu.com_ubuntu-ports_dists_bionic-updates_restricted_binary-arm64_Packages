@@ -1,0 +1,24 @@
+Package: libnvidia-common-390
+Architecture: all
+Version: 390.116-0ubuntu0.18.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: restricted/libs
+Source: nvidia-graphics-drivers-390
+Origin: Ubuntu
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 35
+Provides: libnvidia-common
+Breaks: libnvidia-gl-390 (<< 390.25-0ubuntu2~)
+Replaces: libnvidia-common, libnvidia-gl-390 (<< 390.25-0ubuntu2~)
+Filename: pool/restricted/n/nvidia-graphics-drivers-390/libnvidia-common-390_390.116-0ubuntu0.18.04.1_all.deb
+Size: 12008
+MD5sum: 8b21cf1b646cbfe8fa0959ce2601903d
+SHA1: a01b287c1265eb179b4c214df2adb544604479c0
+SHA256: d24aecf8293439ad1bf014e3f4f851544d9a656d94f2ecd6ac5cdb77ea0a786d
+Homepage: http://www.nvidia.com
+Description: Shared files used by the NVIDIA libraries
+Description-md5: 259c61ba4e777f5a2f1e7ee2fd1957bc
+Supported: 5y
+

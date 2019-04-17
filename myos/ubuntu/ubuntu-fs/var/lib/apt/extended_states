@@ -1,0 +1,212 @@
+Package: libgssapi3-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libxdmcp6
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libkrb5-3
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libgssapi-krb5-2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libnghttp2-14
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libwind0-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: publicsuffix
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libsasl2-modules-db
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libldap-2.4-2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: openssl
+Architecture: arm64
+Auto-Installed: 1
+
+Package: git-man
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libheimntlm0-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libpsl5
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libsqlite3-0
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libbsd0
+Architecture: arm64
+Auto-Installed: 1
+
+Package: perl-modules-5.26
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libheimbase1-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: netbase
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libk5crypto3
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libsasl2-2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libx11-6
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libexpat1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: krb5-locales
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libperl5.26
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libxau6
+Architecture: arm64
+Auto-Installed: 1
+
+Package: librtmp1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libsasl2-modules
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libxcb1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libkrb5support0
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libldap-common
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libgdbm5
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libhcrypto4-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libkeyutils1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libxmuu1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libx11-data
+Architecture: arm64
+Auto-Installed: 1
+
+Package: openssh-client
+Architecture: arm64
+Auto-Installed: 1
+
+Package: multiarch-support
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libedit2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libroken18-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: ca-certificates
+Architecture: arm64
+Auto-Installed: 1
+
+Package: perl
+Architecture: arm64
+Auto-Installed: 1
+
+Package: xauth
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libasn1-8-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libkrb5-26-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libssl1.1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libgdbm-compat4
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libhx509-5-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: patch
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libcurl3-gnutls
+Architecture: arm64
+Auto-Installed: 1
+
+Package: less
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libssl1.0.0
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libxext6
+Architecture: arm64
+Auto-Installed: 1
+
+Package: liberror-perl
+Architecture: arm64
+Auto-Installed: 1
+

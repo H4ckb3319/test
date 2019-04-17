@@ -1,0 +1,52 @@
+Package: iproute2
+Architecture: arm64
+Version: 4.18.0-1ubuntu2~ubuntu18.04.1
+Multi-Arch: foreign
+Priority: important
+Section: net
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Alexander Wirt <formorer@debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 2216
+Provides: arpd
+Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.27), libcap2 (>= 1:2.10), libdb5.3, libelf1 (>= 0.131), libmnl0 (>= 1.0.3-4~), libselinux1 (>= 2.0.15), libxtables12 (>= 1.6.0+snapshot20161117), libcap2-bin
+Recommends: libatm1 (>= 2.4.1-17~)
+Suggests: iproute2-doc
+Conflicts: arpd, iproute (<< 20130000-1)
+Replaces: iproute
+Filename: pool/main/i/iproute2/iproute2_4.18.0-1ubuntu2~ubuntu18.04.1_arm64.deb
+Size: 691688
+MD5sum: d0fb59955428b9963a2c14a44d70dc4f
+SHA1: fed059a97fc2a4dd2223a6ac249cbc6705b159b4
+SHA256: 67caaa31868151f4bc930bbbe68e93832c65c7b3e6ebe15e056e1d2435bf47f0
+Homepage: https://wiki.linuxfoundation.org/networking/iproute2
+Description: networking and traffic control tools
+Task: minimal, ubuntu-core
+Description-md5: d10cc46ca4a9e5489b7d2c879fcfba17
+Supported: 5y
+
+Package: iproute2-doc
+Architecture: all
+Version: 4.18.0-1ubuntu2~ubuntu18.04.1
+Multi-Arch: foreign
+Priority: optional
+Section: doc
+Source: iproute2
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Alexander Wirt <formorer@debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 128
+Conflicts: iproute-doc (<< 20130000-1)
+Replaces: iproute-doc
+Filename: pool/main/i/iproute2/iproute2-doc_4.18.0-1ubuntu2~ubuntu18.04.1_all.deb
+Size: 51760
+MD5sum: 85172cef6dde9d1b8c3bf67c96f81401
+SHA1: d6dd56ff03cb9cf606c5adfa6547be82f4916270
+SHA256: 4943e96e7b4bf6f42accb5fdcc36523c887991972e8983b52a1a14f338842089
+Homepage: https://wiki.linuxfoundation.org/networking/iproute2
+Description: networking and traffic control tools - documentation
+Description-md5: 04b627412e2f9e6b31ebbbedd1b39794
+Supported: 5y
+

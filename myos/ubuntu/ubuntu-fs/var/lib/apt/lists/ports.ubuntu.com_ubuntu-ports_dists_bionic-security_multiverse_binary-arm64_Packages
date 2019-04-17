@@ -1,0 +1,110 @@
+Package: libclamunrar7
+Architecture: arm64
+Version: 0.100.1-1~ubuntu0.18.04.1
+Priority: extra
+Section: multiverse/libs
+Source: libclamunrar
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: ClamAV Team <pkg-clamav-devel@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 77
+Depends: libclamav7, libc6 (>= 2.17)
+Filename: pool/multiverse/libc/libclamunrar/libclamunrar7_0.100.1-1~ubuntu0.18.04.1_arm64.deb
+Size: 29192
+MD5sum: 7786c6529890dac2b218bca79864f064
+SHA1: 01ae66deefa8c3417c1e39dc1e1625f383ac398e
+SHA256: f1c5fbf352cc470ae3c999889739f85f585324b3a8c95e6f65831cce7c3729bd
+Homepage: https://www.clamav.net/
+Description: anti-virus utility for Unix - unrar support
+Description-md5: cc91b3ee0883ae72d88576f9ca8c850e
+
+Package: virtualbox-dkms
+Architecture: all
+Version: 5.2.18-dfsg-2~ubuntu18.04.3
+Priority: optional
+Section: multiverse/kernel
+Source: virtualbox
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Virtualbox Team  <team+debian-virtualbox@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 5290
+Provides: virtualbox-modules
+Depends: dkms (>= 2.1.0.0)
+Recommends: virtualbox (>= 5.2.18-dfsg-2~ubuntu18.04.3)
+Filename: pool/multiverse/v/virtualbox/virtualbox-dkms_5.2.18-dfsg-2~ubuntu18.04.3_all.deb
+Size: 657968
+MD5sum: 174c5d988ccab3a6404c099d8f566ffd
+SHA1: b54e944195e56b042e42bc9a44d208669ac41ba2
+SHA256: 619712d730b6dfce1fa4e15163522347d20ecef4f23fee1ddfcc1ca301a2e32f
+Homepage: https://www.virtualbox.org
+Description: x86 virtualization solution - kernel module sources for dkms
+Description-md5: 4d42f0fe51c4a92f2aed5071f84524ae
+
+Package: virtualbox-guest-dkms
+Architecture: all
+Version: 5.2.18-dfsg-2~ubuntu18.04.3
+Priority: optional
+Section: multiverse/kernel
+Source: virtualbox
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Virtualbox Team  <team+debian-virtualbox@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 6544
+Provides: virtualbox-guest-modules
+Depends: dkms (>= 2.1.0.0)
+Filename: pool/multiverse/v/virtualbox/virtualbox-guest-dkms_5.2.18-dfsg-2~ubuntu18.04.3_all.deb
+Size: 580836
+MD5sum: 8f9763459448c5b340ebb5315b763287
+SHA1: 2b6c86b15577a4971129b1dca186b321e363da98
+SHA256: 028114004d1849f934b53105c3d80f7f918a75c403c672b24ee1f7b48d0c658d
+Homepage: https://www.virtualbox.org
+Description: x86 virtualization solution - guest addition module source for dkms
+Modaliases: vboxguest(pci:v000080EEd0000CAFEsv00000000sd00000000bc*sc*i*)
+Description-md5: e15ead9377a7f1e325ded819d3cfaf8b
+
+Package: virtualbox-guest-source
+Architecture: all
+Version: 5.2.18-dfsg-2~ubuntu18.04.3
+Priority: optional
+Section: multiverse/kernel
+Source: virtualbox
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Virtualbox Team  <team+debian-virtualbox@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1045
+Depends: build-essential, bzip2, debhelper (>= 10), kbuild, module-assistant
+Filename: pool/multiverse/v/virtualbox/virtualbox-guest-source_5.2.18-dfsg-2~ubuntu18.04.3_all.deb
+Size: 974628
+MD5sum: b7f2f6e7a7a19126fd00d1f58780b3c4
+SHA1: 382c1fc061b30309b57c6c1254356c5607e22093
+SHA256: 34e01e125b9ed98b579dcf1991aba64c2badf60773120dfb9f7e2bbd86bb5bfb
+Homepage: https://www.virtualbox.org
+Description: x86 virtualization solution - guest addition module source
+Description-md5: 4e8ea50b26a8f2bc5f4e7ef943a32a06
+
+Package: virtualbox-source
+Architecture: all
+Version: 5.2.18-dfsg-2~ubuntu18.04.3
+Priority: optional
+Section: multiverse/kernel
+Source: virtualbox
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Virtualbox Team  <team+debian-virtualbox@tracker.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 862
+Depends: build-essential, bzip2, debhelper (>= 10), kbuild, module-assistant
+Recommends: virtualbox (>= 5.2.18-dfsg-2~ubuntu18.04.3)
+Filename: pool/multiverse/v/virtualbox/virtualbox-source_5.2.18-dfsg-2~ubuntu18.04.3_all.deb
+Size: 787300
+MD5sum: 2f407ec4fbad6dd1e64744463a056413
+SHA1: caf0051c0be2014c9c1e78054196fd601565e0c3
+SHA256: cc3be5b08a8e4ab5e215a6fa3ab61815b944f317d9de50724bbbfde95711f32e
+Homepage: https://www.virtualbox.org
+Description: x86 virtualization solution - kernel module source
+Description-md5: 53035ede584988f3413156cb7a5dbe8b
+

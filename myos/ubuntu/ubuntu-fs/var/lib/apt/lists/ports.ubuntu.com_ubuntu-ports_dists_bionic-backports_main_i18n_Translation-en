@@ -1,0 +1,18 @@
+Package: iproute2
+Description-md5: d10cc46ca4a9e5489b7d2c879fcfba17
+Description-en: networking and traffic control tools
+ The iproute2 suite is a collection of utilities for networking and
+ traffic control.
+ .
+ These tools communicate with the Linux kernel via the (rt)netlink
+ interface, providing advanced features not available through the
+ legacy net-tools commands 'ifconfig' and 'route'.
+
+Package: iproute2-doc
+Description-md5: 04b627412e2f9e6b31ebbbedd1b39794
+Description-en: networking and traffic control tools - documentation
+ The iproute2 suite is a collection of utilities for networking and
+ traffic control.
+ .
+ This package contains the documentation for iproute.
+
